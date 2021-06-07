@@ -6,7 +6,7 @@ const CreditCard = () => {
     ""
   );
   const [creditCardHolderName, setCreditCardHolderName] =
-    useState("Jibachh Yadav");
+    useState("CS50 Credit Card");
 
   const visaImageLink =
     "https://raw.githubusercontent.com/muhammederdem/credit-card-form/master/src/assets/images/visa.png";
